@@ -1,19 +1,21 @@
 # Hi there , I'm Diyan👋
 # I'm a Python Web Developer
 
-# 💫 About Me:
+## 💫 About me:
 - 🎓 Bachelor's degree in Economics at University of National and World Economy
 
 - 💻 Currently a student at Software University (Softuni)
 
 - ⚡ Fun fact: I love to play guitar and piano in my spare time
 
+---
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px">](https://www.linkedin.com/in/diyan-markov/)
 
+---
 
-# 💻 Tech Stack:
+## 💻 Tech stack:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
