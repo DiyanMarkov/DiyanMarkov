@@ -2,7 +2,7 @@
 # I'm a Python Web Developer
 
 ## `💫 About me:`
-- 🎓 Bachelor's degree in Economics at University of National and World Economy
+- 🎓 Bachelor's degree in International Economic Relations at University of National and World Economy
 
 - 💻 Currently a student at Software University (Softuni)
 
