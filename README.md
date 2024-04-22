@@ -2,11 +2,11 @@
 # I'm a Python Web Developer
 
 ## `💫 About me:`
-- 🎓 Bachelor's degree in International Economic Relations at University of National and World Economy
-
 - 💻 Currently a student at Software University (Softuni)
 
-- ⚡ Fun fact: I love to play guitar and piano in my spare time
+- 🎓 Bachelor's degree in International Economic Relations at University of National and World Economy
+
+- ⚡ Fun facts: I love to play guitar and piano in my spare time. Bet I can beat you at chess too... 😉
 
 ---
 
